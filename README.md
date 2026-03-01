@@ -34,13 +34,16 @@ This project leverages **Large Language Models (LLMs)** to extract, process, and
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Rusty-user365/Financial_Data_Extraction_LLM.git
-cd Financial_Data_Extraction_LLM
+
 ```
+
 
 ### 2. Create environment
 Using Conda:
 ```bash
 conda env create -f env.yml
+```
+```bash
 conda activate mlops_env
 ```
 
